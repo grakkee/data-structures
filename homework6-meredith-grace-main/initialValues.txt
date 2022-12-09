@@ -1,0 +1,21 @@
+0 1 302
+0 2 615
+0 3 726
+0 4 466
+1 3 964
+1 4 466
+2 3 1005
+2 4 506
+
+Reno -> SanFrancisco = 302
+Reno -> Salt Lake City = 615
+Reno -> Seattle = 726
+Reno -> Las Vegas = 466
+
+SanFrancisco -> Seattle = 964
+SanFrancisco -> Las Vegas = 647
+
+Salt Lake City -> Seattle = 1005
+Salt Lake City -> Las Vegas = 506
+
+
